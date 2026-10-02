@@ -1,2 +1,2 @@
-## Hello I'm Majid Jimaale
-And I'm currently Learning HTML & CSS, Javascript
+## Hello I'm Majid Jimaale 👋
+I'm currently Learning HTML & CSS, Javascript👨‍💻
